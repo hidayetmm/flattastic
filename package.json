@@ -17,5 +17,11 @@
         "path": "./themes/Flattastic-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hidayetmm/flattastic.git"
+  },
+  "homepage": "https://github.com/hidayetmm/flattastic",
+  "publisher": "HidayatMammadov"
 }
