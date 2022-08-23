@@ -2,7 +2,7 @@
   "name": "flattastic",
   "displayName": "Flattastic",
   "description": "Dark theme with flat color palette.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.70.0"
   },
